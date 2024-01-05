@@ -7,7 +7,7 @@ horiseon refactor challenge - mod hw # 1
 - refactored CSS selectors and properties.
 - included comments before elements and sections.
 
-
+acceptance criteria
 * source code now has semantic elements.
 * the HTML element structure now has elements following logical structure.
 * image elements now have accessible alt attributes.
